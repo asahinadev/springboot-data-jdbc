@@ -31,7 +31,5 @@ HELP.md
 
 spring-configuration-metadata.json
 /.gradle/
-/bin/
 /gradle/
-/gradlew
-/gradlew.bat
+/bin/
